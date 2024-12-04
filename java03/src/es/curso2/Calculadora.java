@@ -26,7 +26,7 @@ public double multiplicar() {
 public double dividir() {
 	return numero1/numero2;
 }
-public double sumar() {
+public static double sumar() {
 	return numero1+numero2;
 }
 public double restar() {
