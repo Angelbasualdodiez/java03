@@ -1,4 +1,4 @@
-package curso1;
+package es.curso1;
 
 public class PrincipalBombilla {
 public static void main(String[] args) {

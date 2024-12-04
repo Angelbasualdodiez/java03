@@ -1,4 +1,4 @@
-package curso1;
+package es.curso1;
 
 public class Cuadrado {
 		private int lado1;

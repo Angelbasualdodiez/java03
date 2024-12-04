@@ -1,4 +1,4 @@
-package curso1;
+package es.curso1;
 
 public class ejercicio1 {
 	//imprimir por pantalla usando un bucle while el cuadrado 
